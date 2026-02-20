@@ -1,0 +1,19 @@
+basically just saying that data types need to be the same in variables for operators to work
+
+e.g.,
+'hello' + 'there'
+    = hellothere
+'hellowthere' + 1
+    = syntax error, because the data types are different.
+
+can use the function 'type()' to identify what the data type is.
+
+can convert different types into eachother:
+
+example:
+
+print(float(99) + 100)
+    = 199.0
+
+print(int(99) + 100)
+    = 199

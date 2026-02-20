@@ -1,0 +1,16 @@
+operators:
++   =   addition
+-   =   subtraction
+*   =   multiplication
+/   =   division
+**  =   power
+%   =   remainder
+
+works typically in BIDMAS order
+
+order precedence:
+- parentheses
+- exponentiation (power)
+- multiplication, division, remainder
+- addition, subtraction
+- left to right
