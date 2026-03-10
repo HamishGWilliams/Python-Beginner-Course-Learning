@@ -1,0 +1,13 @@
+# Conditional statements - Part 1
+# Operators of conditional statements: same as R. < <=, == >=, >, !=
+
+# part 2:
+# introduces  `if`, `elif`, `else`, same as R
+
+# part 3: catching errors so you can capture errors without stopping code
+try / except
+
+- everything in the `try` indent will try whatver the code in the indent is
+- `except` is like an `else` statement, if the try fails, then it will perform the `except`
+
+completed the assignment, and can now use conditional statements in code
